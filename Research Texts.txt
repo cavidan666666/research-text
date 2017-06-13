@@ -1,0 +1,69 @@
+Programming pradigmalarin 6 novu var:
+
+1)Imperative paradigm
+2)Declarative paradigm
+3)Structured paradigm
+4)Procedural paradigm
+5)Functional paradigm
+6)Function-level paradigm
+7)Object-Oriented paradigm
+
+Imperative Paradigm:
+
+
+Imperative Paradigmalar bildirimleri deyisen dovlet ve emr programingleri ile xarakterize olunur:
+imperativ paradigmalar bir pragramin nece islediyini acikliyir.
+iperativ progparadigmasi real komputerin abstraksiyasidir vebu kompyuter hafizasi ve kayitlari Turing ve Von Neuman makinesine esaslanir.
+bu masinlarin ureyinde deyisdire bilinen store anlayisi var.Deyisenler ve teyinetmeler deyisdirle bilen storenin analog dilidir
+M?cburi proqramlasdirma, bir v?ziyy?t üz?rin? proqramlasdirma v? v?ziyy?ti d?yisdir?n ?mrl?r üz?rind? qurulmusdur. M?cburi proqramlar, kompüterin reallasdiracagi sirali ?mrl?ri.
+ Hesablamanin "nec??" Edil?c?yi ?h?miyy?tlidir. Bu paradiqma kompüterin t?chizatina ?n uygun olandir.
+ D?rhal d?rhal bütün kompüterl?rin t?chizati masin kodunu  isl?d?n t?rzd? dizayn edilmisdir.
+ Yaddasa qoyulan m?lumatlar istifad? ?m?liyyatlar aparilir v? n?tic?l?r yen? yaddasin bir bölg?sin? qoyular. Bu s?b?bl? proqraminin hansi adima çatdigi yaddasin m?zmunundan aydin olur.
+ M?s?l?n C dilind?n Bu kod parçasina baxaq:
+
+Saxlanilan abyekt program terefinden manipulyasiya edilir
+
+Imperativ paradigmada her operasiya step by step gedir. Bundan elave her step global computasiya statini deyisdire biler.
+
+Inheritance paradigmalari:
+
+bir sinif , abyektleri ve diger sinifleri devralabilir.
+Bu irs alinan abyektler ve sinifler ust siifin xususiyyetlerini  ve oz xususiyyetlerini saxlayir:
+
+
+
+Funksiyonal paradigmalar.
+
+funksiyanol paradiqmalar esase riyazi denklememleriin hellinde istifade edilir.bu paradigmanin komeyi ile kodu oemli derecede kodlamaq olur
+umumi menada riyazi mentiqe esaslanan bir paradigmadir
+
+
+Encapsulation:
+
+inkapsulasiyaa heqiqeten birlesen melumat funksiyasini gizletmeyin bir yoludur:
+
+
+
+Logical paradigm:
+
+mentiqsel paradigma statin terefinden praqramin suallara ve diger situasiyalara cavab vermekmucun yazilmisdir:
+
+
+
+
+
+
+obyekt yonumlu:
+
+Object oriented paradigmada biz her bir obyekte propertiler yaziriq ve eyni zamanda bir nece obyekte birdefelik propertiler yaza 
+
+
+Object oriented  esas komponentleri:
+
+Abstraction:
+
+software enginner ve kompyuter elmlerinde abstraksiya kompter sisteminin qarmasiqliqlarini duzenlemek ucun istifade olunan bir texnikadir.
+Bir adamin sistemle qarsiliqli tesire girdiyi movcud nizamin altindaki  daha qarmaqarisik detallari bastirdigi, qarmasiqliq seviyesi olaraq isledir.
+Programci ideal interface ile isleyir ve is ucun cox qarisiq olan elave is seviyyeleri elave ede biler
+
+
