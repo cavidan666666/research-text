@@ -1,4 +1,4 @@
-Programming pradigmalarin 6 novu var:
+Programming pradigmalarin 6 novu var:?
 
 1)Imperative paradigm
 2)Declarative paradigm
@@ -15,11 +15,11 @@ Imperative Paradigmalar bildirimleri deyisen dovlet ve emr programingleri ile xa
 imperativ paradigmalar bir pragramin nece islediyini acikliyir.
 iperativ progparadigmasi real komputerin abstraksiyasidir vebu kompyuter hafizasi ve kayitlari Turing ve Von Neuman makinesine esaslanir.
 bu masinlarin ureyinde deyisdire bilinen store anlayisi var.Deyisenler ve teyinetmeler deyisdirle bilen storenin analog dilidir
-M?cburi proqramlasdirma, bir v?ziyy?t üz?rin? proqramlasdirma v? v?ziyy?ti d?yisdir?n ?mrl?r üz?rind? qurulmusdur. M?cburi proqramlar, kompüterin reallasdiracagi sirali ?mrl?ri.
- Hesablamanin "nec??" Edil?c?yi ?h?miyy?tlidir. Bu paradiqma kompüterin t?chizatina ?n uygun olandir.
- D?rhal d?rhal bütün kompüterl?rin t?chizati masin kodunu  isl?d?n t?rzd? dizayn edilmisdir.
- Yaddasa qoyulan m?lumatlar istifad? ?m?liyyatlar aparilir v? n?tic?l?r yen? yaddasin bir bölg?sin? qoyular. Bu s?b?bl? proqraminin hansi adima çatdigi yaddasin m?zmunundan aydin olur.
- M?s?l?n C dilind?n Bu kod parçasina baxaq:
+M?cburi proqramlasdirma, bir v?ziyy?t Ã¼z?rin? proqramlasdirma v? v?ziyy?ti d?yisdir?n ?mrl?r Ã¼z?rind? qurulmusdur. M?cburi proqramlar, kompÃ¼terin reallasdiracagi sirali ?mrl?ri.
+ Hesablamanin "nec??" Edil?c?yi ?h?miyy?tlidir. Bu paradiqma kompÃ¼terin t?chizatina ?n uygun olandir.
+ D?rhal d?rhal bÃ¼tÃ¼n kompÃ¼terl?rin t?chizati masin kodunu  isl?d?n t?rzd? dizayn edilmisdir.
+ Yaddasa qoyulan m?lumatlar istifad? ?m?liyyatlar aparilir v? n?tic?l?r yen? yaddasin bir bÃ¶lg?sin? qoyular. Bu s?b?bl? proqraminin hansi adima Ã§atdigi yaddasin m?zmunundan aydin olur.
+ M?s?l?n C dilind?n Bu kod parÃ§asina baxaq:
 
 Saxlanilan abyekt program terefinden manipulyasiya edilir
 
